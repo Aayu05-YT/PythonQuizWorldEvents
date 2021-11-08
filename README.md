@@ -1,2 +1,2 @@
 # PythonQuizWorldEvents
-A quiz using python about world events
+World events quiz using python 
